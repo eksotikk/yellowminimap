@@ -1,1 +1,16 @@
-
+{
+  "test1": {
+    "name": "test1.png",
+    "x": 4095,
+    "y": -4096,
+    "width": 1,
+    "height": 1
+  },
+      "test2": {
+    "name": "test2.png",
+    "x": 4094,
+    "y": -4096,
+    "width": 1,
+    "height": 1
+  }
+}    
