@@ -1,16 +1,16 @@
 {
-  "test1": {
-    "name": "test1.png",
-    "x": 4095,
-    "y": -4096,
-    "width": 1,
-    "height": 1
+  "leader": {
+    "name": "zyron.png",
+    "x": 1212,
+    "y": -723,
+    "width": 172,
+    "height": 103
   },
-      "test2": {
-    "name": "test2.png",
-    "x": 4094,
-    "y": -4096,
-    "width": 1,
-    "height": 1
+      "bayrak": {
+    "name": "yz.png",
+    "x": 2161,
+    "y": -3835,
+    "width": 334,
+    "height": 203
   }
 }    
